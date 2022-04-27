@@ -1,2 +1,2 @@
 # Sugene
-project to implement DNA sequence in a n innovative way
+A project to implement DNA sequence in an innovative way
