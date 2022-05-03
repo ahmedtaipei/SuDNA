@@ -1,0 +1,11 @@
+ 
+
+Data Structure  in which  each node will have two parents, parent1 and parent2
+The ithe value in each node will be calculated as follows:
+0.53 of parent1 plus 0.47 of parent 2:
+the value will be string, in a json format as follows:
+{0.53 value of parent1, 0.47 value of parent2}
+
+
+
+
